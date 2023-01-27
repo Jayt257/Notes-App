@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes app in kotlin</string>
+    <string name="timestamp">TimeStamp</string>
+</resources>
